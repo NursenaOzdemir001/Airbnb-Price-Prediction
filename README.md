@@ -106,7 +106,7 @@ This provides additional interpretability beyond simply comparing model performa
 * Google Colab
 * Jupyter Notebook
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 This project demonstrates practical experience with:
 
