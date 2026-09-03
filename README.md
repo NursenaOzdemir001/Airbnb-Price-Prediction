@@ -1,4 +1,4 @@
-# Airbnb Price Prediction
+# Airbnb Price Prediction Model
 
 ## Project Overview
 
